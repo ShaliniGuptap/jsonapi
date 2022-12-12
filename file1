@@ -1,0 +1,17 @@
+[
+{
+"Name":"amit",
+"salary":50000,
+"joining_date":"1-11-2019",
+},
+{
+"Name":"ram",
+"salary":70000,
+"joining_date":"1-12-2020",
+},
+{
+"Name":"amrita",
+"salary":40000,
+"joining_date":"1-12-2021",
+}
+]
